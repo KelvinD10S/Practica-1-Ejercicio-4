@@ -23,6 +23,9 @@ En este repositorio se encuentran los siguientes archivos:
 
 De igual forma aqui se muestran los resultados:
 
+![Gráfica de los resultados](Resultados.png)
+![Resultados en consola](Resultados2.JPG)
+
 ## Autor
 
 - **Cárdenas Pérez Calvin Cristopher**
