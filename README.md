@@ -17,9 +17,9 @@ Este repositorio contiene la implementación de un algoritmo de retropropagació
 
 En este repositorio se encuentran los siguientes archivos:
 
-- [`codigo.py`](codigo.py): Código fuente del programa.
-- [`irisbin.csv`](concentlite.csv): Archivo de datos de entrada.
-- [`reporte.pdf`](Reporte.pdf): Informe detallado sobre la implementación del algoritmo y los resultados obtenidos.
+- [El código fuente](codigo.py) Codigo fuente del programa
+- [El archivo de datos](irisbin.csv) Archivo de datos de entrada
+- [Reporte](Reporte.pdf) Informe detallado sobre la implementación del algoritmo y los resultados obtenidos.
 
 De igual forma aqui se muestran los resultados:
 
