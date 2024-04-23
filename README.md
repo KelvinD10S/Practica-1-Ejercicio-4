@@ -19,8 +19,9 @@ En este repositorio se encuentran los siguientes archivos:
 
 - [`codigo.py`](codigo.py): Código fuente del programa.
 - [`irisbin.csv`](concentlite.csv): Archivo de datos de entrada.
-- [`reporte.pdf`](reporte.pdf): Informe detallado sobre la implementación del algoritmo y los resultados obtenidos.
+- [`reporte.pdf`](Reporte.pdf): Informe detallado sobre la implementación del algoritmo y los resultados obtenidos.
 
+De igual forma aqui se muestran los resultados:
 
 ## Autor
 
